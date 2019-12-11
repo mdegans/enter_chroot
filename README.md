@@ -12,7 +12,7 @@ first boot happens*.
 usage: ./enter_chroot.sh rootfs_path
 ```
 
-If you are on Tegra, for example, run `enter_chroot.sh rootfs`
+If you are on Tegra, for example, run `sudo enter_chroot.sh rootfs`
 from inside the `Linux_for_Tegra` folder that SDKManager downloads for you
 for your board (`~/nvidia/nvidia_sdk/JetPack_$(VERSION)/Linux_for_Tegra` by
 default as of writing).
